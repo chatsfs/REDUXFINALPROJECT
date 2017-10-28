@@ -13,7 +13,8 @@ This app uses a posts API from where the posts and comments are fetched.
 ## Project Start
 ----------------
 ```
-Use npm install, then yarn start or npm start
+Download the api from this URL https://github.com/udacity/reactnd-project-readable-starter 
+Use npm install , then yarn start or npm start on both projects.
 ```
 
 ## Built With
